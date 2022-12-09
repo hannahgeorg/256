@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 	
 .feature {
-	background: lightskyblue linear-gradient(to bottom, lightskyblue,rgb(193, 193, 230));
+	background: lightskyblue linear-gradient(to bottom, black,rgb(193, 193, 230));
 	color: black;
 	}
 
@@ -30,6 +30,8 @@ h1, h2, h3, h4, h5, h6 {
     
 .footer-blurb-item {
     padding: 30px;
+	border-style: dotted;
+	border-color: #000080;
     }
  
 .small-print {
